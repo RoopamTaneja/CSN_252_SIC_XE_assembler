@@ -111,16 +111,19 @@ TOTAL  RESW  1
        END   FIRST
 ```
 
-- ![](img/image.png)
+![Directory Structure Before](img/image.png)
 
-- ![](img/image1.png)
+![Directory Structure After](img/image-10.png)
 
-- ![Object File](img/image-4.png)
-- ![Listing File](img/image-3.png)
-- ![Error File](img/image-1.png)
-- ![Intermediate File](img/image-2.png)
+![Object File](img/image-4.png)
 
-2) `program_blocks_code.txt` : 
+![Listing File](img/image-3.png)
+
+![Error File](img/image-1.png)
+
+![Intermediate File](img/image-2.png)
+
+1) `program_blocks_code.txt` : 
  
 This provides a sample code given in the textbook (Fig 2.11) to demonstrate the usage of program blocks.
 
@@ -184,12 +187,15 @@ WLOOP    TD      =X'05'
          END     FIRST
 ```
 
-- ![Object File](img/image-5.png)
-- ![Listing File](img/image-6.png)
-- ![Data Structures](img/image-7.png)
-- ![Error File](img/image-8.png)
+![Object File](img/image-5.png)
 
-3) `csect_code.txt` : 
+![Listing File](img/image-6.png)
+
+![Data Structures](img/image-7.png)
+
+![Error File](img/image-8.png)
+
+1) `csect_code.txt` : 
    
 This provides a sample code given in the textbook (Fig 2.15) to demonstrate the usage of control sections. (Tested for showing that it correctly detects errors like wrong opcodes for unsupported features)
 
@@ -256,6 +262,6 @@ WLOOP    TD      =X'05'
          END     FIRST
 ```
 
-- ![Error File](img/image-9.png)
+![Error File](img/image-9.png)
 
 Two other sample programs `other_program1.txt` and `other_program2.txt` are also provided in the `sample_programs` folder for further testing.
