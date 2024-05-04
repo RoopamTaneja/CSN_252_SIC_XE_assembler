@@ -1,6 +1,6 @@
-# SIC-XE-Assembler
+# SIC-XE Assembler
 
-SIC-XE-Assembler written in C++ supporting Program Blocks for CSN-252 System Software course.
+SIC-XE Assembler written in C++ supporting Program Blocks for CSN-252 System Software course.
 
 ## Instructions
 
